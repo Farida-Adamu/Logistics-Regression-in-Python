@@ -1,5 +1,5 @@
 # Logistics-Regression-in-Python
-In this project I attempt to create a predictive model that helps us the impact team at Generation understand their program impact on job outcomes for their alumni. 
+In this project I attempt to create a predictive model that helps the impact team at Generation understand program impact on job outcomes for their alumni. 
 
 Generation is an employment nonprofit that transforms education to employment systems and supports people into life-changing careers.
 
